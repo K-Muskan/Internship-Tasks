@@ -1,15 +1,10 @@
-"# Internship Tasks" 
-Since your project includes **four tasks**, you can structure your **README.md** to cover all of them. Below is an updated version:  
+**Data Science Internship Tasks - Exploratory Data Analysis & Visualization**
 
----
-
-# **Data Science Internship Tasks - Exploratory Data Analysis & Visualization**
-
-## **Project Overview**
+**Project Overview**
 This repository contains four tasks focused on **Exploratory Data Analysis (EDA)** and visualization using Python. Each task involves loading a dataset, cleaning it, performing visualizations, and summarizing key insights.
 
-## **Tasks Overview**
-### **Task 1: EDA and Visualization of a Real-World Dataset**  
+**Tasks Overview**
+**Task 1: EDA and Visualization of a Real-World Dataset**  
 - **Dataset Used**: Titanic Dataset  
 - **Steps**:  
   - Load the dataset using `pandas`.  
@@ -19,7 +14,7 @@ This repository contains four tasks focused on **Exploratory Data Analysis (EDA)
 
 ---
 
-### **Task 2: Data Preprocessing and Feature Engineering**  
+**Task 2: Data Preprocessing and Feature Engineering**  
 - **Goal**: Prepare data for machine learning models.  
 - **Steps**:  
   - Handle categorical and numerical data using encoding techniques.  
@@ -29,7 +24,7 @@ This repository contains four tasks focused on **Exploratory Data Analysis (EDA)
 
 ---
 
-### **Task 3: Model Training and Evaluation**  
+**Task 3: Model Training and Evaluation**  
 - **Goal**: Train a machine learning model and evaluate performance.  
 - **Steps**:  
   - Choose an appropriate classification model (e.g., **Logistic Regression, Decision Tree, Random Forest**).  
@@ -39,7 +34,7 @@ This repository contains four tasks focused on **Exploratory Data Analysis (EDA)
 
 ---
 
-### **Task 4: Deployment and API Integration**  
+**Task 4: Deployment and API Integration**  
 - **Goal**: Deploy the trained model using a web framework (e.g., **Flask or FastAPI**).  
 - **Steps**:  
   - Develop a simple API for model predictions.  
@@ -49,7 +44,7 @@ This repository contains four tasks focused on **Exploratory Data Analysis (EDA)
 
 ---
 
-## **Observations**
+**Observations**
 - **EDA revealed significant insights**, such as survival rate variations based on class, gender, and fare.  
 - **Feature engineering improved model performance** by encoding categorical variables.  
 - **Model evaluation helped identify the best-performing algorithm**.  
